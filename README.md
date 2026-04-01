@@ -43,6 +43,7 @@ Some important insights derived from the analysis include:
 - Observing customer spending behavior
 - Understanding which products perform better during specific occasions
 
+Dashboard-  ![fnp dashboard](https://github.com/ankurkatiyar167/Ferns-and-petals-excel-dashboard/blob/main/fnp%20dashboard)
 Dashboard Features
 The dashboard includes the following visualizations:
 
